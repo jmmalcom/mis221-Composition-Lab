@@ -1,0 +1,16 @@
+C:\source\repos\mis221-Composition-Lab\bin\Debug\net5.0\mis221-Composition-Lab.exe
+C:\source\repos\mis221-Composition-Lab\bin\Debug\net5.0\mis221-Composition-Lab.deps.json
+C:\source\repos\mis221-Composition-Lab\bin\Debug\net5.0\mis221-Composition-Lab.runtimeconfig.json
+C:\source\repos\mis221-Composition-Lab\bin\Debug\net5.0\mis221-Composition-Lab.runtimeconfig.dev.json
+C:\source\repos\mis221-Composition-Lab\bin\Debug\net5.0\mis221-Composition-Lab.dll
+C:\source\repos\mis221-Composition-Lab\bin\Debug\net5.0\ref\mis221-Composition-Lab.dll
+C:\source\repos\mis221-Composition-Lab\bin\Debug\net5.0\mis221-Composition-Lab.pdb
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.csproj.AssemblyReference.cache
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.AssemblyInfoInputs.cache
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.AssemblyInfo.cs
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.csproj.CoreCompileInputs.cache
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.dll
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\ref\mis221-Composition-Lab.dll
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.pdb
+C:\source\repos\mis221-Composition-Lab\obj\Debug\net5.0\mis221-Composition-Lab.genruntimeconfig.cache

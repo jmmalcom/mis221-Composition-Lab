@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mis221-Composition-Lab/1.0.0": {
+        "runtime": {
+          "mis221-Composition-Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis221-Composition-Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
