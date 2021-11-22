@@ -17,6 +17,10 @@ namespace mis221_Composition_Lab
             Book yourBook = new Book("4321", "The Phantom Book", new Author("Jamie", 'f', "jamie@mail.com"));
             Console.WriteLine(yourBook.ToString());
 
+            yourBook.GetAuthor().SetEmail("jamie@crimson.ua.edu");
+
+            Console.WriteLine(yourBook.ToString());
+
             
             
             
